@@ -1,0 +1,24 @@
+*{margin: 0;padding: 0;}
+ul,ol{list-style: none;}
+a{color: #000; text-decoration: none;}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+    color: #000;
+    background: url(../img/portfolio/video.jpg) no-repeat;
+}
+
+#w{
+    width: 100%;
+    margin-top: 60px; 
+}
+.video{
+    width: 1280px;
+    margin-top: 100px;
+    margin: auto;
+}
+.video img{
+    margin-left: 615px;
+    margin-bottom: 10px;
+}
